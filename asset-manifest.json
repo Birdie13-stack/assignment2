@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Birdie13-stack/assignment2/static/css/main.273f1ace.css",
+    "main.js": "/Birdie13-stack/assignment2/static/js/main.cec8ce87.js",
+    "index.html": "/Birdie13-stack/assignment2/index.html",
+    "main.273f1ace.css.map": "/Birdie13-stack/assignment2/static/css/main.273f1ace.css.map",
+    "main.cec8ce87.js.map": "/Birdie13-stack/assignment2/static/js/main.cec8ce87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273f1ace.css",
+    "static/js/main.cec8ce87.js"
+  ]
+}
